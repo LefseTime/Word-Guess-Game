@@ -1,0 +1,23 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+    padding: 0.6em;
+    background-color: #f1f1d5;
+}
+
+.display-4 {
+    font-family: 'Great Vibes', cursive;
+}
+
+.lead {
+    font-family: 'Raleway', sans-serif;
+}
+
+#player-info {
+    font-family: 'Great Vibes', cursive;
+}
+
+/* font-family: 'Great Vibes', cursive;
+font-family: 'Raleway', sans-serif; */
